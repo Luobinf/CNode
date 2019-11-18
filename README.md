@@ -129,4 +129,4 @@ watch: {
 ```
 
 ## Pagination
-Pagination该组件主题页中的数据分页。
+Pagination组件用于主题页中的数据分页。
