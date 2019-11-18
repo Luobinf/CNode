@@ -143,7 +143,7 @@ export default {
   padding: 0 4px;
 }
 .section #content .panel .header p .author{
-  color: #838383;
+  color: skyblue;
   font-size: 12px;
 }
 .section #content .panel .header p .author:hover{
